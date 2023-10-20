@@ -15,7 +15,7 @@ insert = "bar"
 bufferline = "multiple"
 
 [keys.normal]
-esc = ["collapse_selection", "keep_primary_selection
+esc = ["collapse_selection", "keep_primary_selection"]
     
 ```
 
