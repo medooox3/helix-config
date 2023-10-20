@@ -8,15 +8,14 @@ open the config file, first open helix editor then:
 ```bash
 theme = "catppuccin_mocha"
     
-      [editor.cursor-shape]
-      insert = "bar"
+[editor.cursor-shape]
+insert = "bar"
     
-     [editor]
-      bufferline = "multiple"
-    
-    
-    [keys.normal]
-     esc = ["collapse_selection", "keep_primary_selection
+[editor]
+bufferline = "multiple"
+
+[keys.normal]
+esc = ["collapse_selection", "keep_primary_selection
     
 ```
 
